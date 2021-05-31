@@ -1,0 +1,11 @@
+FoodDelivery.TEST/obj/
+FoodDelivery.TEST/bin/
+FoodDelivery.DTO/obj/
+FoodDelivery.DTO/bin/
+FoodDelivery.DAL/obj/
+FoodDelivery.DAL/bin/
+FoodDelivery.BLL/obj/
+FoodDelivery.BLL/bin/
+FoodDelivery/obj/
+FoodDelivery/bin/
+.vs/
